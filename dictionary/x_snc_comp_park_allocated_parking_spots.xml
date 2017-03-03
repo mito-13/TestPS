@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Allocated parking spots" max_length="40" name="x_snc_comp_park_allocated_parking_spots" type="collection"/>
+</database>

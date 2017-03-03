@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="Parking spots" max_length="40" name="x_snc_comp_park_parking_spots" type="collection"/>
+</database>
